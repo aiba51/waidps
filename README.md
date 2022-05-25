@@ -4,7 +4,11 @@ waidps
  Wireless Auditing, Intrusion Detection &amp; Prevention System
 
 
- Depends on PyCrypto, run `pip install pycrypto` to install. (Removed - Encryption feature)
+ ##install
+ 
+ ```
+ git clone https://github.com/aiba51/waidps.git
+ ```
  
  
 Youtube Video Playlist  - https://www.youtube.com/watch?v=aGTQAWoeujA&index=1&list=PLrekpjW7JwW-T0CeXP8GwudtJmTJ6KZ8O
