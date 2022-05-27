@@ -8,9 +8,6 @@ waidps
 git clone https://github.com/aiba51/waidps.git
 ```
 
-### 更新 ###
-从Python2转换为Python3
-
  
 Youtube Video Playlist  - https://www.youtube.com/watch?v=aGTQAWoeujA&index=1&list=PLrekpjW7JwW-T0CeXP8GwudtJmTJ6KZ8O
 
